@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/abstracts/variables_color.scss"
+    ],
+    "names": [],
+    "file": "variables_color.css"
+}
